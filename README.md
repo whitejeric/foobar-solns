@@ -13,7 +13,7 @@ Deglazed solutions:
 1. start with a few primes (2 to 31 in this case) and greedy primality testing (max length of string was only 10,000)
 2. sort em, find a midpoint between positive and negative entries, if theres an odd number of negative entries make the last occuring negative number '1' and return the product of the list
 3. look at a chessboard for a bit, write a terrible solution then remember good ol' [dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-4. for each y count how many divisors it has preceeding it in the list and how many multiples following it, then for each y add to the total the product of y's divisor and multiples count (that's math p|ab right there bb)
+4. for each y count how many divisors it has preceeding it in the list and how many multiples following it, then for each y add to the total the product of y's divisor and multiples count (that's p|ab right there bb)
 5. my fav! (love anything related to [collatz](https://en.wikipedia.org/wiki/Collatz_conjecture)) write down any 9 sequential integers and then their equivalence modulo 4 :) 
 6. This one is _really fun_ if you're a cowboy:
 * ignore the matrix structure of the input and try to create your own insane spaghetti solution (4 hours) 
