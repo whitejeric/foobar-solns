@@ -4,7 +4,7 @@ My solutions to googles old foobar challenges, lotta fun so far!
 Reduced questions:
 1. make a string of primes concatenated one after the other till it has length i+5 then return the last 5 digits of the string
 2. take a list of positive and negative integers, find the maximum product of their entries
-3. If a knight is on square x_ij, what's the minimum number of moves to get to y_ij
+3. If a knight is on square x_ij, what's the minimum number of moves to get to y_kl
 4. given a list of integers find all tuples (x,y,z) st. x|y|z and the indices of x and z are less than or greater than y's respectively
 5. given an integer n (that we can: add 1 to, subtract 1 from, or divide by 2) what's the smallest number of operations needed to reach 1
 6. what's the probability of eric remembering anything to do with markov chains 
